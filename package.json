@@ -5,6 +5,10 @@
     "workspaces": [
         "packages/*"
     ],
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/saradab-mindfire/sp-sortable-data-table.git"
+    },
     "scripts": {
         "build": "lerna run build",
         "test": "lerna run test"
