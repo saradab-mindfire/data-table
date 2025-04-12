@@ -1,3 +1,10 @@
+# [1.2.0](https://github.com/saradab-mindfire/sp-sortable-data-table/compare/v1.1.0...v1.2.0) (2025-04-12)
+
+
+### Features
+
+* Initial commit ([0224b22](https://github.com/saradab-mindfire/sp-sortable-data-table/commit/0224b22f2ed843c122c519909d07418d60d16366))
+
 # [1.1.0](https://github.com/saradab-mindfire/sp-sortable-data-table/compare/v1.0.0...v1.1.0) (2025-04-12)
 
 
