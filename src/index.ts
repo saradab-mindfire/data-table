@@ -114,7 +114,6 @@ function attachSortingFunctionality(data: any[]) {
 }
 
 function initializeFilterOption() {
-  console.log("hi");
   const filterInput = document.createElement("input");
   filterInput.type = "text";
   filterInput.placeholder = "Filter...";
