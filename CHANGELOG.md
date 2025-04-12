@@ -1,3 +1,10 @@
+# [1.1.0](https://github.com/saradab-mindfire/sp-sortable-data-table/compare/v1.0.0...v1.1.0) (2025-04-12)
+
+
+### Features
+
+* Initial commit & code switched to master branch & updated permission & added package name ([9208b1c](https://github.com/saradab-mindfire/sp-sortable-data-table/commit/9208b1ca357456133f72c5a1a254dca4f6979e74))
+
 # 1.0.0 (2025-04-12)
 
 
