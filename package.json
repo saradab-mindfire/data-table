@@ -1,5 +1,5 @@
 {
-    "name": "sp-sortable-data-table-monorepo",
+    "name": "@saradafuture/sp-data-table",
     "version": "1.0.0",
     "private": true,
     "workspaces": [
