@@ -1,6 +1,6 @@
 // filepath: /d:/Foss/sp-sortable-data-table/release.config.js
 module.exports = {
-  branches: ["main"],
+  branches: ["master"],
   plugins: [
     "@semantic-release/commit-analyzer",
     "@semantic-release/release-notes-generator",
