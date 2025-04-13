@@ -1,3 +1,13 @@
+# [1.4.0](https://github.com/saradab-mindfire/data-table/compare/v1.3.0...v1.4.0) (2025-04-13)
+
+
+### Features
+
+* Initial Commit ([fb43659](https://github.com/saradab-mindfire/data-table/commit/fb436598182a308ec3b91f4a1fdaa3eab1e6a451))
+* Initial Commit with package name change ([497ecf8](https://github.com/saradab-mindfire/data-table/commit/497ecf8e7656ba92734e3ee4e7eb650d4ea62a5c))
+* Initial Release ([ccb501e](https://github.com/saradab-mindfire/data-table/commit/ccb501e9e80ed5b5495e7dbf81991fae3a5b3693))
+* Initial Release with github url ([83a5519](https://github.com/saradab-mindfire/data-table/commit/83a55194efd45a885484df710f5d24a6106d6f8c))
+
 # [1.3.0](https://github.com/saradab-mindfire/sp-sortable-data-table/compare/v1.2.0...v1.3.0) (2025-04-12)
 
 
