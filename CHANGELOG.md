@@ -1,3 +1,10 @@
+# [1.5.0](https://github.com/saradab-mindfire/data-table/compare/v1.4.0...v1.5.0) (2025-04-13)
+
+
+### Features
+
+* Initial Commit ([60b3c97](https://github.com/saradab-mindfire/data-table/commit/60b3c97e9e3c3dba27de38fdf1c3d681ba0854b8))
+
 # [1.4.0](https://github.com/saradab-mindfire/data-table/compare/v1.3.0...v1.4.0) (2025-04-13)
 
 
