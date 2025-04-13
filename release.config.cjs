@@ -1,4 +1,3 @@
-// filepath: /d:/Foss/sp-sortable-data-table/release.config.js
 module.exports = {
   branches: ["master"],
   plugins: [
