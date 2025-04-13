@@ -1,3 +1,10 @@
+# [1.6.0](https://github.com/saradab-mindfire/data-table/compare/v1.5.0...v1.6.0) (2025-04-13)
+
+
+### Features
+
+* Deployment build changed ([3b6a104](https://github.com/saradab-mindfire/data-table/commit/3b6a104c8aa93f24d3912ca31da6540c5eb167c5))
+
 # [1.5.0](https://github.com/saradab-mindfire/data-table/compare/v1.4.0...v1.5.0) (2025-04-13)
 
 
