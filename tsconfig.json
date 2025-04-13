@@ -5,8 +5,9 @@
     "moduleResolution": "node",
     "outDir": "./dist",
     "strict": true,
-    "lib": ["es2017", "dom"]
+    "lib": ["es2017", "dom"],
+    "rootDir": "./packages/core"
   },
-  "include": ["packages/core/utils/**/*.ts"],
-  "exclude": ["node_modules"]
+  "include": ["packages/core/index.ts", "packages/core/src/**/*"],
+  "exclude": ["node_modules", "dist"]
 }

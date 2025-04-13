@@ -1,7 +1,8 @@
 {
-  "name": "sp-sortable-data-table",
+  "name": "@san/data-table",
   "version": "1.0.0",
   "main": "dist/index.js",
+  "types": "dist/index.d.ts",
   "scripts": {
     "build": "tsc",
     "start": "live-server"
@@ -11,7 +12,8 @@
   "license": "ISC",
   "description": "",
   "dependencies": {
-    "live-server": "^1.2.2"
+    "live-server": "^1.2.2",
+    "typescript": "^5.8.3"
   },
   "devDependencies": {
     "@types/node": "^22.14.1"

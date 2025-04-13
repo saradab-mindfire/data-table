@@ -11,7 +11,7 @@ const includeCSSFile = () => {
   const link = document.createElement("link");
   link.rel = "stylesheet";
   link.type = "text/css";
-  link.href = "./../assets/css/index.css"; // Adjust the path as necessary
+  link.href = "./../assets/css/index.css";
   document.head.appendChild(link);
 };
 
@@ -21,7 +21,7 @@ function intiTableConfig() {
   const colGroup = document.createElement("colgroup");
   keys.forEach(() => {
     const col = document.createElement("col");
-    col.style.width = `${100 / keys.length}%`; // Set equal width for each column
+    col.style.width = `${100 / keys.length}%`;
     colGroup.appendChild(col);
   });
   table.appendChild(colGroup);
