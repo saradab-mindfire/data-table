@@ -1,3 +1,10 @@
+# [1.8.0](https://github.com/saradab-mindfire/data-table/compare/v1.7.0...v1.8.0) (2025-04-18)
+
+
+### Features
+
+* Allowed dist files and created examples ([4ecb73f](https://github.com/saradab-mindfire/data-table/commit/4ecb73f0b210f8ce6fa3fa58dd189b608af18e7a))
+
 # [1.7.0](https://github.com/saradab-mindfire/data-table/compare/v1.6.0...v1.7.0) (2025-04-18)
 
 
