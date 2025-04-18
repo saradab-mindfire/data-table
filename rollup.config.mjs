@@ -6,7 +6,7 @@ import copy from "rollup-plugin-copy";
 export default {
   input: "packages/core/index.ts",
   output: {
-    file: "index.js",
+    file: "dist/index.js",
     format: "esm",
     sourcemap: true,
   },
@@ -18,8 +18,8 @@ export default {
     typescript(),
     copy({
       targets: [
-        { src: "assets/**/*", dest: "dist/assets" },
-        { src: "packages/core/dist/**/*", dest: "dist" },
+        { src: "assets/**/*", dest: "assets" },
+        { src: "packages/core/dist/**/*", dest: "" },
       ],
       flatten: false,
     }),
