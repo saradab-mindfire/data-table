@@ -18,8 +18,8 @@ export default {
     typescript(),
     copy({
       targets: [
-        { src: "assets/**/*", dest: "assets" },
-        { src: "packages/core/dist/**/*", dest: "" },
+        { src: "assets/**/*", dest: "/assets" },
+        { src: "packages/core/dist/**/*", dest: "/" },
       ],
       flatten: false,
     }),
