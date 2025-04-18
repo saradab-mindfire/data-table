@@ -1,3 +1,10 @@
+# [1.7.0](https://github.com/saradab-mindfire/data-table/compare/v1.6.0...v1.7.0) (2025-04-18)
+
+
+### Features
+
+* ignored src files ([193d09d](https://github.com/saradab-mindfire/data-table/commit/193d09d31a1f54038d82b36b27cbc68ea1f918a8))
+
 # [1.6.0](https://github.com/saradab-mindfire/data-table/compare/v1.5.0...v1.6.0) (2025-04-13)
 
 
