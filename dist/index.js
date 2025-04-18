@@ -8,7 +8,7 @@ var includeCSSFile = function () {
     var link = document.createElement("link");
     link.rel = "stylesheet";
     link.type = "text/css";
-    link.href = "./../assets/css/index.css";
+    link.href = "../assets/css/index.css";
     document.head.appendChild(link);
 };
 function intiTableConfig() {
