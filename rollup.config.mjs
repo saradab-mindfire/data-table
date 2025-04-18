@@ -17,7 +17,11 @@ export default {
     commonjs(),
     typescript(),
     copy({
-      targets: [{ src: "assets/**/*", dest: "dist/assets" }],
+      targets: [
+        { src: "assets/**/*", dest: "dist/assets" },
+        { src: "packages/core/dist/**/*", dest: "dist" },
+      ],
+      flatten: false,
     }),
   ],
 };

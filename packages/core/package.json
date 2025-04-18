@@ -5,8 +5,7 @@
   "types": "dist/index.d.ts",
   "scripts": {
     "build": "tsc",
-    "start": "live-server",
-    "build:assets": "cp -r assets dist/assets"
+    "start": "live-server"
   },
   "keywords": [],
   "author": "",
