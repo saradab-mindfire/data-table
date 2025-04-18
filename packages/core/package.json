@@ -12,6 +12,7 @@
   "license": "ISC",
   "description": "",
   "dependencies": {
+    "@saradafuture/data-table": "^1.0.0",
     "live-server": "^1.2.2",
     "typescript": "^5.8.3"
   },
