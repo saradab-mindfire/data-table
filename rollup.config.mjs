@@ -6,7 +6,7 @@ import copy from "rollup-plugin-copy";
 export default {
   input: "packages/core/index.ts",
   output: {
-    file: "dist/index.js",
+    file: "index.js",
     format: "esm",
     sourcemap: true,
   },
