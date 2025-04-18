@@ -1,3 +1,10 @@
+# [1.10.0](https://github.com/saradab-mindfire/data-table/compare/v1.9.0...v1.10.0) (2025-04-18)
+
+
+### Features
+
+* changes done related to assets ([9c7854d](https://github.com/saradab-mindfire/data-table/commit/9c7854d5116ab53de9472e1f7cf6f9700bee0afe))
+
 # [1.9.0](https://github.com/saradab-mindfire/data-table/compare/v1.8.0...v1.9.0) (2025-04-18)
 
 
