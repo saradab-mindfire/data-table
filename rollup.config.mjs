@@ -18,8 +18,9 @@ export default {
     typescript(),
     copy({
       targets: [
-        { src: "packages/core/dist/**/*", dest: "/" }, // Changed path
-        { src: "assets/**/*", dest: "/" },
+        { src: "packages/core/dist/**/*", dest: "dist" }, // Changed path
+        { src: "assets/**/*", dest: "dist" },
+        { src: "package.json", dest: "dist" }, // Copy package.json to dist
       ],
       flatten: true,
     }),
