@@ -1,3 +1,17 @@
+# [1.11.0](https://github.com/saradab-mindfire/data-table/compare/v1.10.0...v1.11.0) (2025-04-21)
+
+
+### Features
+
+* changed ([0d52a1d](https://github.com/saradab-mindfire/data-table/commit/0d52a1d4a2656d5c55d37042179e4f06ac5e886a))
+* changed ([b1f5624](https://github.com/saradab-mindfire/data-table/commit/b1f56246fdcad7b94c8e931ea10e3c4e408c4ef8))
+* changed folder structure ([26d45b2](https://github.com/saradab-mindfire/data-table/commit/26d45b2681dd3a1e137cf47f9249d68ef52e59ca))
+* changed folder structure ([6e27997](https://github.com/saradab-mindfire/data-table/commit/6e279973d304407eff36d7d6868a76a8efc7dcca))
+* changed folder structure ([392a0b8](https://github.com/saradab-mindfire/data-table/commit/392a0b84786cf4f0c71d6537a6bbe49e920b1bdc))
+* icons removed ([2c6596e](https://github.com/saradab-mindfire/data-table/commit/2c6596ef4a7de4e3cad5abd8c806f3f0e058cbe1))
+* Path changed ([d6d2510](https://github.com/saradab-mindfire/data-table/commit/d6d25103055a3031170795726903afdaefb8eb80))
+* structure changed ([c739d7d](https://github.com/saradab-mindfire/data-table/commit/c739d7d81f5c6c7aaea3ec16bae7b5080771c572))
+
 # [1.10.0](https://github.com/saradab-mindfire/data-table/compare/v1.9.0...v1.10.0) (2025-04-18)
 
 
