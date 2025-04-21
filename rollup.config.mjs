@@ -19,7 +19,7 @@ export default {
     copy({
       targets: [
         { src: "assets/**/*", dest: "/assets" },
-        { src: "packages/core/dist/**/*", dest: "/" },
+        { src: "packages/core/dist/**/*", dest: "/" }, // Changed path
       ],
       flatten: false,
     }),
