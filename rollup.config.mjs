@@ -18,10 +18,10 @@ export default {
     typescript(),
     copy({
       targets: [
-        { src: "assets/**/*", dest: "/assets" },
+        { src: "assets/**/*", dest: "/" },
         { src: "packages/core/dist/**/*", dest: "/" }, // Changed path
       ],
-      flatten: false,
+      flatten: true,
     }),
   ],
 };
