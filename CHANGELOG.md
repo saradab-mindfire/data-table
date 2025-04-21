@@ -1,3 +1,11 @@
+# [1.12.0](https://github.com/saradab-mindfire/data-table/compare/v1.11.0...v1.12.0) (2025-04-21)
+
+
+### Features
+
+* added file path ([df704cc](https://github.com/saradab-mindfire/data-table/commit/df704cc19d496fa9ef072b45687d6b5a38597da4))
+* added file path ([6dfc00b](https://github.com/saradab-mindfire/data-table/commit/6dfc00bad9403f607a96825bf319c3613c0a101e))
+
 # [1.11.0](https://github.com/saradab-mindfire/data-table/compare/v1.10.0...v1.11.0) (2025-04-21)
 
 
